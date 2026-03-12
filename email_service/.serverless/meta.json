@@ -1,0 +1,16 @@
+{
+  "unknown": {
+    "versionFramework": "4.33.0",
+    "error": {
+      "message": "Failed to download and install template from https://github.com/serverless/examples/tree/v4/aws-python-http-api due to A folder named \"C:\\Users\\MOHAMMED KAIF\\Desktop\\email_service\\email-service\" already exists.",
+      "stack": "Error: Failed to download and install template from https://github.com/serverless/examples/tree/v4/aws-python-http-api due to A folder named \"C:\\Users\\MOHAMMED KAIF\\Desktop\\email_service\\email-service\" already exists.\n    at routeNew (file:///C:/Users/MOHAMMED%20KAIF/.serverless/releases/4.33.0/package/dist/sf-core.js:1139:6532)\n    at async commandOnboarding (file:///C:/Users/MOHAMMED%20KAIF/.serverless/releases/4.33.0/package/dist/sf-core.js:1139:4874)\n    at async _CoreRunner.run (file:///C:/Users/MOHAMMED%20KAIF/.serverless/releases/4.33.0/package/dist/sf-core.js:1453:15864)\n    at async route (file:///C:/Users/MOHAMMED%20KAIF/.serverless/releases/4.33.0/package/dist/sf-core.js:2519:2848)\n    at async Object.run (file:///C:/Users/MOHAMMED%20KAIF/.serverless/releases/4.33.0/package/dist/sf-core.js:2520:3886)\n    at async run2 (file:///C:/Users/MOHAMMED%20KAIF/.serverless/releases/4.33.0/package/dist/sf-core.js:2520:5040)"
+    },
+    "command": [],
+    "options": {},
+    "serviceProviderAwsCfStackId": null,
+    "serviceProviderAwsCfStackCreated": null,
+    "serviceProviderAwsCfStackUpdated": null,
+    "serviceProviderAwsCfStackStatus": null,
+    "serviceProviderAwsCfStackOutputs": null
+  }
+}
