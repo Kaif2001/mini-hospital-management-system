@@ -18,3 +18,7 @@ node_modules/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Google API secrets
+credentials.json
+token.json
